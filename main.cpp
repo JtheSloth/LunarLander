@@ -76,7 +76,7 @@ bool g_accerlation = false;
 int g_won = 0; // 0 means game is still going, 1 means we won gamee, 2 means we lost game
 
 //fuel value
-int g_fuel = 70000;
+int g_fuel = 60000;
 
 //variables for load_texture
 constexpr int NUMBER_OF_TEXTURES = 1;
